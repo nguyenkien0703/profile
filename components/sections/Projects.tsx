@@ -76,7 +76,9 @@ export function Projects({ dict, locale }: Props) {
                     </Tag>
                   ))}
                   {p.tech.length > 8 && (
-                    <Tag variant="muted">+{p.tech.length - 8}</Tag>
+                    <Tag variant="muted" showIcon={false}>
+                      {`+${p.tech.length - 8}`}
+                    </Tag>
                   )}
                 </div>
 
