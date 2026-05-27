@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact",
+    "downloadCV": "Download CV"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Nguyen Van Kien",
+    "role": "DevOps Engineer",
+    "tagline": "Building, deploying, and scaling reliable systems",
+    "summary": "3+ years building CI/CD pipelines, cloud infrastructure, and automation on AWS, Kubernetes, and Docker. Focused on Configuration Management, SCM, Build/Release, and Infrastructure as Code.",
+    "ctaContact": "Get in touch",
+    "ctaCV": "Download CV"
+  },
+  "about": {
+    "title": "About me",
+    "subtitle": "// who_am_i.sh",
+    "paragraph1": "I'm a DevOps Engineer based in Hanoi, currently working at Sava Meta. My focus is on Configuration Management, SCM, Build/Release Management, and Infrastructure as Code.",
+    "paragraph2": "I bridge the gap between application teams and infrastructure — having shipped production code myself, I understand what developers need from a platform: fast feedback loops, reliable CI, clear logs, and tooling that doesn't get in their way.",
+    "paragraph3": "I've shipped CI/CD pipelines with Jenkins, GitHub Actions, GitLab CI, and ArgoCD; built monitoring stacks with Prometheus, Grafana, ELK, and OpenTelemetry; and managed Kubernetes clusters on AWS for both internal AI platforms and Web3 trading systems.",
+    "highlights": {
+      "years": "Years experience",
+      "projects": "Projects shipped",
+      "stack": "Production stack"
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "// tools_of_the_trade",
+    "groups": {
+      "languages": "Languages",
+      "devops": "DevOps & Infra",
+      "cloud": "Cloud & CDN",
+      "observability": "Observability",
+      "backend": "Backend",
+      "frontend": "Frontend",
+      "database": "Database",
+      "other": "Other"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "// production_systems",
+    "description": "A selection of systems I've shipped — DevOps platforms, AI infra, Web3 trading, and full-stack web apps.",
+    "role": "Role",
+    "team": "Team",
+    "live": "Live",
+    "dead": "Offline",
+    "viewLive": "View live",
+    "tech": "Tech"
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "// career_timeline",
+    "present": "Present",
+    "awardsTitle": "Awards & Certifications"
+  },
+  "contact": {
+    "title": "Get in touch",
+    "subtitle": "// contact_info",
+    "description": "Open to DevOps / SRE / Platform Engineer roles. Drop me a line — I usually respond within 24 hours.",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "location": "Location",
+    "locationValue": "Ha Dong, Hanoi, Vietnam"
+  },
+  "footer": {
+    "built": "Built with Next.js & Tailwind",
+    "copyright": "© 2026 Nguyen Van Kien"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "about": "Giới thiệu",
+    "skills": "Kỹ năng",
+    "projects": "Dự án",
+    "experience": "Kinh nghiệm",
+    "contact": "Liên hệ",
+    "downloadCV": "Tải CV"
+  },
+  "hero": {
+    "greeting": "Xin chào, tôi là",
+    "name": "Nguyễn Văn Kiên",
+    "role": "DevOps Engineer",
+    "tagline": "Xây dựng, triển khai và mở rộng các hệ thống ổn định",
+    "summary": "3+ năm kinh nghiệm xây dựng CI/CD pipelines, cloud infrastructure và automation trên AWS, Kubernetes và Docker. Tập trung vào Configuration Management, SCM, Build/Release và Infrastructure as Code.",
+    "ctaContact": "Liên hệ",
+    "ctaCV": "Tải CV"
+  },
+  "about": {
+    "title": "Giới thiệu",
+    "subtitle": "// who_am_i.sh",
+    "paragraph1": "Tôi là DevOps Engineer tại Hà Nội, hiện đang làm việc tại Sava Meta. Tôi tập trung vào Configuration Management, SCM, Build/Release Management và Infrastructure as Code.",
+    "paragraph2": "Tôi là cầu nối giữa dev team và infrastructure — từng tự code production nên hiểu rõ developer cần gì ở platform: feedback nhanh, CI ổn định, log rõ ràng, và tooling không cản đường họ.",
+    "paragraph3": "Tôi đã ship CI/CD pipelines với Jenkins, GitHub Actions, GitLab CI và ArgoCD; xây monitoring stack với Prometheus, Grafana, ELK và OpenTelemetry; vận hành Kubernetes clusters trên AWS cho cả AI platform nội bộ và hệ thống Web3 trading.",
+    "highlights": {
+      "years": "Năm kinh nghiệm",
+      "projects": "Dự án đã ship",
+      "stack": "Production stack"
+    }
+  },
+  "skills": {
+    "title": "Kỹ năng",
+    "subtitle": "// tools_of_the_trade",
+    "groups": {
+      "languages": "Ngôn ngữ",
+      "devops": "DevOps & Infra",
+      "cloud": "Cloud & CDN",
+      "observability": "Observability",
+      "backend": "Backend",
+      "frontend": "Frontend",
+      "database": "Database",
+      "other": "Khác"
+    }
+  },
+  "projects": {
+    "title": "Dự án",
+    "subtitle": "// production_systems",
+    "description": "Một số hệ thống tôi đã ship — DevOps platform, AI infra, Web3 trading và full-stack web apps.",
+    "role": "Vai trò",
+    "team": "Team",
+    "live": "Live",
+    "dead": "Offline",
+    "viewLive": "Xem live",
+    "tech": "Công nghệ"
+  },
+  "experience": {
+    "title": "Kinh nghiệm",
+    "subtitle": "// career_timeline",
+    "present": "Hiện tại",
+    "awardsTitle": "Chứng chỉ & Giải thưởng"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "subtitle": "// contact_info",
+    "description": "Sẵn sàng cho các vị trí DevOps / SRE / Platform Engineer. Gửi tin nhắn cho tôi — tôi thường trả lời trong 24h.",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "location": "Địa chỉ",
+    "locationValue": "Hà Đông, Hà Nội, Việt Nam"
+  },
+  "footer": {
+    "built": "Xây dựng với Next.js & Tailwind",
+    "copyright": "© 2026 Nguyễn Văn Kiên"
+  }
+}
